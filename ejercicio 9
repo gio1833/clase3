@@ -1,0 +1,18 @@
+list = []
+
+def agregar(elementos):
+    
+    list.insert(0, elementos)
+    return list
+
+def eliminar():
+    list.pop(0)
+    return list
+
+print(agregar(1))
+print(agregar(2))
+print(agregar(3))
+print(agregar(4))
+
+print(eliminar())
+print(eliminar())

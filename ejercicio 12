@@ -1,0 +1,7 @@
+# ejercicio 12 Ordenar una lista de palabras
+
+# nombres = ["Jessica", "Carlos", "Pipe", "Jackie", "Luis"]
+
+# print("Desordenado: ", nombres)
+# nombres.sort(key=len)
+# print("Ordenado: ", nombres)

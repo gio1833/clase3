@@ -1,0 +1,7 @@
+# ejercicio 4  Invertir una lista
+
+# if __name__ == '__main__':
+ 
+#     a = [1, 2, 3, 4, 5]
+#     rev = list(reversed(a))
+#     print(rev)    # imprime [5, 4, 3, 2, 1]

@@ -1,0 +1,13 @@
+# ejercicio 3 Diccionario de estudiantes
+# los estudiantes tendran:
+# Nombre
+# edad
+# calificacion
+
+# estudiantes = [
+#     {"Nombre":"Camilo" , "edad":21 , "calificacion":5}, 
+#     {"Nombre":"Andrea" , "edad":30 , "calificacion":4}, 
+#     {"Nombre":"Felipe" , "edad":25 , "calificacion":5}
+# ] 
+# for estudiante in estudiantes:
+#     print(f"Nombre:{estudiante['Nombre']} Edad:{estudiante['edad']} Calificacion: {estudiante['calificacion'] }") 

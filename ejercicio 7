@@ -1,0 +1,19 @@
+
+# lista = [1, 1, 4, 10, 5, 10, 'perro' 3, 8, 'perro' 6, 4]
+
+# def contarunicos(elemento):
+#     a = 0
+#     while a < len(elemento):
+#         b = a + 1
+#         while b < len(elemento):
+#             if elemento[a] == elemento[b]:
+#                 elemento.pop(b)
+#                 elemento.pop(a)
+#                 a = 0
+#                 b = a + 1
+#             else:
+#                 j += 1
+#         a += 1
+#     return(elemento)
+
+#     print(contarunicos(elemento))

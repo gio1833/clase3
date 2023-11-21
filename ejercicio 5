@@ -1,0 +1,21 @@
+# ejercicio 5. Validación de paréntesis
+
+# validar:
+# cadena de carecteres
+
+#'()[]{}' => True
+#'(){][}' =< False
+
+# def cadena_paréntesis_baleanceado(cadena):
+#     elemento = []
+#     paréntesis = {'{': '}', '(':')', '[':']'} 
+
+#     for caracter in cadena:
+#         if caracter in paréntesis:
+#             elemento.append(caracter)
+#         elif len(elemento) == 0 or caracter != paréntesis[elemento.pop()]:
+#             return False
+#     return len(elemento) == 0   
+
+# print(cadena_paréntesis_baleanceado('()[]{}'))
+# print(cadena_paréntesis_baleanceado('(){][}'))

@@ -1,0 +1,9 @@
+#ejercicio 8 Comprobacion de palindromos
+
+# def es_palindromo(palabra):
+#     palabra = palabra.lower()
+#     return palabra == palabra [::-1] 
+
+# print(es_palindromo("futbol"))
+# print(es_palindromo("ojo"))
+# print(es_palindromo("radar"))

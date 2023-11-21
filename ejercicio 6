@@ -1,0 +1,14 @@
+# cola_tarea = []
+
+# def agregar_tarea(tarea):
+#     cola_tarea.append(tarea)
+#     print(f'la tarea:{tarea} a sido agregada')
+
+# def eliminar_antigua():
+#     if len(cola_tarea) > 0:
+#         print(f'la tarea:{cola_tarea[0]} fue eliminada')
+#         cola_tarea.pop(0)
+#         return
+#         tarea_antigua
+#     else:
+#         return "la cola de tareas esta vacia"
